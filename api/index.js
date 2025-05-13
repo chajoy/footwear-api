@@ -1,6 +1,9 @@
 const express = require("express");
 const app = express();
 const products = require("../products.json");
+const cors = require("cors");
+
+app.use(cors());
 
 app.get("/products", (req, res) => {
   res.send(products);
