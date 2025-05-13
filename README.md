@@ -1,4 +1,4 @@
-[footwearAPI](https://footwear-api.vercel.app/).
+[footwearAPI](https://footwear-api.vercel.app/)
 
 # footwearAPI
 footwearAPI offers a collection of footwear with details like name, brand, color, price, and image — ideal for learning, prototyping, and practice projects.
