@@ -1,0 +1,134 @@
+:root {
+  --text: rgb(215, 215, 215);
+  --dark: #202020;
+  --base: #2e2e2e;
+  --highlight: #5a5a5a;
+  --accent: #85a2dd;
+  --width: 1000px;
+  --sm-width: 100%;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+body {
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  font-family: "Afacad", sans-serif;
+  background-color: var(--base);
+  color: var(--text);
+}
+
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  overflow-wrap: break-word;
+}
+
+p {
+  text-wrap: pretty;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-wrap: balance;
+}
+
+#root,
+#__next {
+  isolation: isolate;
+}
+
+nav {
+  user-select: none;
+  gap: 20px;
+  align-items: center;
+  padding: 20px 0;
+  margin: auto;
+  display: flex;
+  max-width: var(--width);
+  .title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-right: auto;
+  }
+
+  .icon {
+    height: 2rem;
+  }
+
+  a {
+    color: inherit;
+  }
+}
+
+main {
+  max-width: var(--width);
+  margin: 30px auto;
+  font-size: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  .block {
+    background-color: var(--dark);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    outline: 1px solid var(--highlight);
+
+    .key {
+      color: var(--accent);
+      font-weight: bold;
+    }
+  }
+}
+
+.emphasise {
+  font-weight: bold;
+  color: var(--accent);
+}
+
+@media (max-width: 1100px) {
+  nav {
+    max-width: var(--sm-width);
+    margin: 20px;
+  }
+  main {
+    margin: 20px;
+    max-width: var(--sm-width);
+  }
+}
