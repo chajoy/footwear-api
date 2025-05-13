@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Ralph Sampson MC",
+    "colour": "Grey",
+    "brand": "PUMA",
+    "price": 55,
+    "desc": "The new Ralph Sampson MC is PUMA’s modern take on a classic, preserving key elements of the original design. This version draws inspiration from the clean, minimal style of Scandinavian design, featuring neutral tones, a leather upper, and suede overlays for a refined, contemporary look.",
+    "image": "https://footwear-api.vercel.app/img/ralph_sampson.png"
+  },
+  {
+    "id": 2,
+    "title": "Jada Renew",
+    "colour": "White",
+    "brand": "PUMA",
+    "price": 39,
+    "desc": "Jada Renew blends tennis-inspired style with everyday comfort. Designed with a slightly elevated profile for a retro vibe, they feature a mix of durable leather materials for long-lasting wear. A SOFTFOAM+ sockliner delivers cushioned support underfoot, keeping you comfortable with every step.",
+    "image": "https://footwear-api.vercel.app/img/jada_renew.png"
+  },
+  {
+    "id": 3,
+    "title": "Air Max 1 x Patta Chlorophyll",
+    "colour": "Green",
+    "brand": "NIKE",
+    "price": 125,
+    "desc": "Celebrate two decades of Patta with the Nike Air Max 1 Patta 20th Anniversary 'Chlorophyll', released in 2024. This special edition nods to the iconic 5th anniversary version from 2009, blending heritage and fresh style in a tribute to the brand’s legacy.",
+    "image": "https://footwear-api.vercel.app/img/air_max_patta.png"
+  },
+  {
+    "id": 4,
+    "title": "Air Max 1 Ultra Moire",
+    "colour": "Red",
+    "brand": "NIKE",
+    "price": 100,
+    "desc": "The Air Max 1 Ultra Moire sports a Summit White leather upper with laser-etched perforations for a sleek, breathable look. Gym Red accents highlight the midsole, cut-off side Swoosh, and tongue and heel branding, adding a bold contrast to the clean design.",
+    "image": "https://footwear-api.vercel.app/img/air_max_ultra_moire.png"
+  },
+  {
+    "id": 5,
+    "title": "Air Max 95 Premium",
+    "colour": "Teal",
+    "brand": "NIKE",
+    "price": 85,
+    "desc": "The Nike Air Max 95 Premium gets a modern refresh with a bold mix of materials and colours. Released in May 2019, this edition features an upper made of Oil Grey suede, teal chenille, and beige canvas, accented by a multicoloured tongue patch for a standout look.",
+    "image": "https://footwear-api.vercel.app/img/air_max_95.png"
+  }
+]
