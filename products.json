@@ -43,5 +43,50 @@
     "price": 85,
     "desc": "The Nike Air Max 95 Premium gets a modern refresh with a bold mix of materials and colours. Released in May 2019, this edition features an upper made of Oil Grey suede, teal chenille, and beige canvas, accented by a multicoloured tongue patch for a standout look.",
     "image": "https://footwear-api.vercel.app/img/air_max_95.png"
+  },
+  {
+    "id": 6,
+    "title": "New Balance 997",
+    "colour": "Grey",
+    "brand": "New Balance",
+    "price": 66,
+    "desc": "The 997H is a modern evolution of the classic 997, reimagined for those who want to stand out. With bold updates and a streamlined design, it brings a fresh take on a ‘90s icon while staying true to its lasting heritage.",
+    "image": "https://footwear-api.vercel.app/img/997.png"
+  },
+  {
+    "id": 7,
+    "title": "Air Jordan 1 Mid",
+    "colour": "White",
+    "brand": "Nike",
+    "price": 90,
+    "desc": "Inspired by the original AJ1, this mid-top version keeps the classic look while using select colors and smooth leather to create a unique style.",
+    "image": "https://footwear-api.vercel.app/img/air_jordan_1_mid.png"
+  },
+  {
+    "id": 8,
+    "title": "Adidas Originals Continental 80",
+    "colour": "White",
+    "brand": "Adidas",
+    "price": 30,
+    "desc": "The Continental 80 draws from retro '80s tennis style, featuring a low-top design with a two-tone stripe and a logo window near the laces. Its split rubber cupsole with an EVA insert offers comfort and flexibility.",
+    "image": "https://footwear-api.vercel.app/img/originals_continental_80.png"
+  },
+  {
+    "id": 9,
+    "title": "Adidas POD S3.1",
+    "colour": "Green",
+    "brand": "Adidas",
+    "price": 40,
+    "desc": "The adidas P.O.D. S3.1 features a sock-like upper with Three Stripe branding, a hybrid midsole with Boost and EVA cushioning, and a durable rubber outsole. Finished with a suede heel tab and Trefoil branding, it blends classic and modern design.",
+    "image": "https://footwear-api.vercel.app/img/pod_s31.png"
+  },
+  {
+    "id": 10,
+    "title": "New Balance XC-72",
+    "colour": "Pastel",
+    "brand": "New Balance",
+    "price": 70,
+    "desc": "The XC-72 takes inspiration from 1970s concept cars, blending classic design with futuristic elements. Featuring angular details and unique traction patterns, it reimagines the sleek low-cut style of vintage running shoes with a bold, experimental twist.",
+    "image": "https://footwear-api.vercel.app/img/xc72.png"
   }
 ]
